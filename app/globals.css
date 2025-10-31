@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+table th, table td { padding: 10px; border-bottom: 1px solid #eee; text-align: left; }
+thead th { background: #fafafa; }
+h1, h2 { font-weight: 700; }
